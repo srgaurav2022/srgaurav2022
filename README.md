@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋</h1>
-<h3 align="center">Hi, I'm srgaurav2022,Junior Web Programmer. Learning a web programming language and curious about new stack of programming. Experience in internship and remote work. Responsible, wondering, and hard working. Client satisfaction is number one.</h3>
+<h3 align="center">Hii, I'm Gaurav, Junior Web Programmer. Learning a web programming language and curious about new stack of programming. Experience in internship and remote work. Responsible, wondering, and hard working. Client satisfaction is number one.</h3>
 
 - 🌱 I’m currently learning **JAVASCRIPT,REACT.JS**
 
